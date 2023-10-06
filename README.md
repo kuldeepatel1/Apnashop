@@ -1,2 +1,0 @@
-# Apnashop
-online shoping website
